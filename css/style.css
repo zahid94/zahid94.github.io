@@ -136,9 +136,9 @@ a:hover {
 /*--/ Title s /--*/
 
 .title-s {
-  font-weight: 600;
+  font-weight: 700;
   color: #1e1e1e;
-  font-size: 1.1rem;
+  font-size: 1rem;
 }
 
 /*--/ Title A /--*/
@@ -686,17 +686,19 @@ a:hover {
 
 .skill-mf span {
   color: #4e4e4e;
+  font-size: 13px;
+  font-weight: 500;
 }
 
 .skill-mf .progress {
   background-color: #cde1f8;
-  margin: .5rem 0 1.2rem 0;
-  border-radius: 0;
-  height: .7rem;
+  margin: .5rem 0 .5rem 0;
+  border-radius: 5px;
+  height: .5rem;
 }
 
 .skill-mf .progress .progress-bar {
-  height: .7rem;
+  height: .5rem;
   background-color: #0078ff;
 }
 
